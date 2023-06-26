@@ -18,6 +18,10 @@ Created a simple application using Spring Initializer With required depencdencie
         getVisits   
 ## Data Structure
 * String
-* int 
+* int
+
+## Authors
+
+- [@Rudra Pratap Singh](https://github.com/rudrapratapsingh2000)
 
 
